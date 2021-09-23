@@ -1,3 +1,10 @@
+# Table of contents
+*[Project Title] (# Project Title)
+*[Description] (# Description)
+*[Tools Used] (# Tools Used)
+*[Website Used] (# website Used)
+*[Final Product] (# Final Product)
+
 # Project Title
 Urban Acres Web Scraping Project
 
