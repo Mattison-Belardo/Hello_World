@@ -9,7 +9,7 @@ Used a Google Chrome Web Scraper Extension to collect Open House data from the U
 - Excel
 
 # Website Used
-Urban Acres Real Estate Website - (https://urbanacres.com/buy?wplorderby=p.sp_openhouse&wplorder=DESC&sf_select_sp_openhouse=1)
+Urban Acres Real Estate Website: (https://urbanacres.com/buy?wplorderby=p.sp_openhouse&wplorder=DESC&sf_select_sp_openhouse=1)
 
 # Final Product
-Scrapped Data: ([Belardo_Urban_Acres_Data (6).xls](https://github.com/Mattison-Belardo/Hello_World/files/7214497/Belardo_Urban_Acres_Data.6.xls)
+Scrapped Data: [Belardo_Urban_Acres_Data (6).xls](https://github.com/Mattison-Belardo/Hello_World/files/7214497/Belardo_Urban_Acres_Data.6.xls)
